@@ -24,8 +24,4 @@ Build and run using Docker Compose:
 Hello world!
 
 Test Goging
-Test Going
-Test Going
-Test Going
-Test Going
-wrgeg
+
